@@ -1,0 +1,1 @@
+A storage repository for the data generated and used in "Accelerated Discovery of Organic Polymer Photocatalysts for Hydrogen Evolution from Water through the Integration of Experiment and Theory" (DOI: 10.1021/jacs.9b03591).
